@@ -11,6 +11,8 @@ My name is Siddharth Arya, although I go by Sid. I am currently pursuing a Backe
 📫 Feel free to check out my projects and contact me through LinkedIn: 
 https://www.linkedin.com/in/sid19arya/ 
 
+😄 Checkout my personal webpage [here](https://sid19arya.github.io/)
+
 ## Projects:
 
 Currently a short list, its always hard to take a project to a point where you feel proud of it to announce it to other people, I'm working on it!
