@@ -15,7 +15,7 @@ https://www.linkedin.com/in/sid19arya/
 
 Currently a short list, its always hard to take a project to a point where you feel proud of it to announce it to other people, I'm working on it!
 
-1) Contributer to [bayesian_dpddm](https://pypi.org/project/bayesian-dpddm/), a python module in order to validate your deployed machine learning model against unlabled test data, in order to determine wether your models predictions are reliable. The associated github is pinned below!
+1) Contributer to [bayesian_dpddm](https://pypi.org/project/bayesian-dpddm/), a published python module to help users validate their deployed machine learning model against unlabled test data, in order to determine wether your models predictions are reliable. The associated github is pinned below!
 
 <!--
 **sid19arya/sid19arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
